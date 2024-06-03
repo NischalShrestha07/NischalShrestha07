@@ -1,4 +1,4 @@
-- 🌪️ Hello there!! 👋 I'm Nischal aka Narayan🧑‍💻
+- 🌪️ Hello there!! 👋 I'm Nischal aka Narayan Shrestha 🧑‍💻
 - 🌱 I’m currently learning MERN.
 - 🚀Pursuing a Bachelor's in Computer Engineering.
 
