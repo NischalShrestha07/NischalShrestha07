@@ -1,7 +1,7 @@
 - 🌪️ Hello there!! 👋 I'm Nischal aka Narayan Shrestha 🧑‍💻
-- 🌱 I’m currently learning MERN.
+- 🌱 I’m currently learning MERN,Laravel,React.
 - 🚀Pursuing a Bachelor's in Computer Engineering.
-- 🐸 How to reach me nischalshrestha800@gmail.com
+  
  
 <!---
 NischalShrestha07/NischalShrestha07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
