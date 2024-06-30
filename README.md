@@ -1,5 +1,5 @@
 - 🌪️ Hello there!! 👋 I'm Nischal aka Narayan Shrestha 🧑‍💻
-- 🌱 I’m currently learning MERN,Laravel,React.
+- 🌱 I’m currently learning Laravel🐸
 - 🚀Pursuing a Bachelor's in Computer Engineering.
   
  
