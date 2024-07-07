@@ -1,12 +1,9 @@
 <h1 align="center">🌪️Hello there!! 👋 I'm Nischal aka Narayan Shrestha 🧑‍💻</h1>
-<h3 align="center">A passionate guy learning doing some backend stuffs from Nepal.</h3>
+<h3 align="center">A passionate guy learning Laravel🐸</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/56996/35211232-f0e23a70-ff98-11e7-8970-1aff845f3eb0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischalshrestha07&label=Profile%20views&color=0e75b6&style=flat" alt="nischalshrestha07" /> </p>
 
-
-
-- 🌱 I’m currently learning **learning Laravel🐸**
 
 <p align="left">
 <a href="https://instagram.com/nischal_shrestha07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nischal_shrestha07" height="30" width="40" /></a>
